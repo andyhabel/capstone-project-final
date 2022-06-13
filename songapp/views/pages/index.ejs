@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Get Random Song</title>
+    <link rel="stylesheet" type="text/css" href="/css/style.css">
+  </head>
+  <body>
+    <div class="container">
+      <fieldset>
+        <form action="/" method="post">
+          <h1>press the button</h>
+          <input type="submit" class="ghost-button" value="Random Song">
+	 <% if(song !== null){ %>
+          <p><%= song %></p>
+        <% } %>
+
+        <% if(error !== null){ %>
+          <p><%= error %></p>
+        <% } %>
+        </form>
+      </fieldset>
+    </div>
+  </body>
+</html>
