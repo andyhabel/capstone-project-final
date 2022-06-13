@@ -1,4 +1,4 @@
-[![andyhabel](https://circleci.com/gh/andyhabel/capstone-project-final?style=svg)](https://app.circleci.com/pipelines/github/andyhabel/capstone-project-final)
+[![andyhabel](https://circleci.com/gh/andyhabel/capstone-project-final.svg?style=shield)](https://app.circleci.com/pipelines/github/andyhabel/capstone-project-final)
 
 
 **Udacity Capstone Project**
